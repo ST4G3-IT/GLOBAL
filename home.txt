@@ -6,14 +6,14 @@ ST4G3 <span id="b">></span><a href="https://github.com/ST4G3-IT">IT</a>
 
 
 
-<span id="a">Twostep@ST4G3</span>:<span id="b">~</span><span id="c">$</span> cat home<br/><br/>
+<span id="a">Twostep@ST4G3</span>:<span id="b">~</span><span id="c">$</span> read home<br/><br/>
 Hi,<!-- laglaglaglaglaglaglaglaglaglaglaglag --><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
 <p>It's time to chose your section.</p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<span id="a">Twostep@ST4G3</span>:<span id="b">~</span><span id="c">$</span> cat sections<br/><br/>
+<span id="a">Twostep@ST4G3</span>:<span id="b">~</span><span id="c">$</span> read sections<br/><br/>
 <a href="https://github.com/ST4G3-IT/CORE">ST4G3 Core</a></p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <a href="/">ST4G3 Global</a></p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <a href="https://github.com/ST4G3-IT/ST4G3-Motorsport">ST4G3 Motorsport</a></p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <a href="https://github.com/ST4G3-IT/AIM">ST4G3 AIM</a></p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <a href="https://github.com/ST4G3-IT/">ST4G3 IT</a></p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
-<span id="a">Twostep@ST4G3</span>:<span id="b">~</span><span id="c">$</span> or goto <a href="https://st4g3.fr/">News</a><br/><br/>
+<span id="a">Twostep@ST4G3</span>:<span id="b">~</span><span id="c">$</span> click links or goto <a href="https://st4g3.fr/">News</a><br/><br/>
