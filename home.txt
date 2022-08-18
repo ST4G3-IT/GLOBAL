@@ -1,5 +1,5 @@
 ST4G3 Operating System
-Version 1.0.3.220814.2035
+Version 1.0.3.220815.0841
 (c) ST4G3. All rights reserved
 ST4G3 <span id="b">></span><a href="https://discord.gg/8JnDjnqZ">Discord</a>
 ST4G3 <span id="b">></span><a href="https://github.com/ST4G3-IT">IT</a>
